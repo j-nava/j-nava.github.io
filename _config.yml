@@ -1,0 +1,17 @@
+title: Nava's page
+author:
+  name: Jesse Nava
+  email: code@nava.xyz
+
+# show_excerpts: false
+
+minima:
+  social-links:
+    github: j-nava
+
+  skin: dark
+
+header_pages:
+  - about.md
+
+theme: minima
