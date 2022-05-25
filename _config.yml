@@ -2,8 +2,10 @@ title: Nava's page
 author:
   name: Jesse Nava
   email: code@nava.xyz
-
-# show_excerpts: false
+description: >
+  My experiences with functional programming.
+  Hoping future me will revisit this and
+  be happy to see how much progress was made! 
 
 minima:
   social-links:
@@ -12,6 +14,6 @@ minima:
   skin: dark
 
 header_pages:
-  - about.md
+  - index.md
 
 theme: minima
