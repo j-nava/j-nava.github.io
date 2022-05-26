@@ -57,7 +57,7 @@ After learning about mtl-style, I became that person.
 
 It was a time of writing typeclass instances. I admit that I learned a lot with it, and I'm also not saying that _none_ of it makes sense (I kept `MonadCanvas`!), but that's how I learned funcional programming is not immune to overengineering! 
 
-But it the end, it was a positive experience. Again, strong types saving the day when I needed to refactor!
+But in the end, it was a positive experience. Again, strong types saving the day when I needed to refactor!
 
 ### Community
 
